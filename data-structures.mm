@@ -1,6 +1,6 @@
-<map version="1.1.0">
+<map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1461481706688" ID="ID_1092383701" MODIFIED="1461554996162" TEXT="Data Structures">
+<node CREATED="1461481706688" ID="ID_1092383701" MODIFIED="1463463567725" TEXT="Data Structures">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -76,8 +76,7 @@
       https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461481777316" ID="ID_112113997" MODIFIED="1461482377345" TEXT="WeakSet">
 <richcontent TYPE="NOTE"><html>
@@ -95,8 +94,7 @@
       https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1461481785191" ID="ID_205490311" MODIFIED="1461482327778" POSITION="left" TEXT="Map-Based">
@@ -109,8 +107,7 @@
       Similar to objects
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461481792414" ID="ID_1351083016" MODIFIED="1461482337377" TEXT="Map">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -148,8 +145,7 @@
       https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461481818584" ID="ID_1149766140" MODIFIED="1461482357486" TEXT="WeakMap">
 <richcontent TYPE="NOTE"><html>
@@ -164,7 +160,7 @@
       
     </p>
     <p>
-      The object is held in the list of keys &quot;weakly&quot;
+      The object is held in the list of keys "weakly"
     </p>
     <p>
       
@@ -173,8 +169,7 @@
       This means that when the last real pointer to the object is deleted, it is automatically removed from the list of keys and the key/value are cleaned up.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1461481828334" ID="ID_949816614" MODIFIED="1461482388740" POSITION="right" TEXT="Non-Native Structures">
@@ -187,8 +182,7 @@
       Data is stored in objects created by the developer
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482004646" ID="ID_103596609" MODIFIED="1461555951902" TEXT="Linked Lists">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -208,15 +202,14 @@
       
     </p>
     <p>
-      <img src="./images/816px-Singly-linked-list.svg.png" />
+      <img src="./images/816px-Singly-linked-list.svg.png"/>
       
     </p>
     <p>
       Source: Wikipedia - <a href="https://en.wikipedia.org/wiki/Linked_list" target="_blank">Linked List</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482024356" ID="ID_382946036" MODIFIED="1461556093890" TEXT="Single">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -236,15 +229,14 @@
       
     </p>
     <p>
-      <img src="./images/816px-Singly-linked-list.svg.png" />
+      <img src="./images/816px-Singly-linked-list.svg.png"/>
       
     </p>
     <p>
       Source: Wikipedia - <a href="https://en.wikipedia.org/wiki/Linked_list" target="_blank">Linked List</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482035597" ID="ID_1484031508" MODIFIED="1461482416095" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -264,8 +256,7 @@
       Deletion O(1)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461482038568" ID="ID_1375551038" MODIFIED="1461482424136" TEXT="Functions">
 <richcontent TYPE="NOTE"><html>
@@ -286,8 +277,7 @@
       Traverse
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1461482029165" ID="ID_502717561" MODIFIED="1461556057159" TEXT="Double">
@@ -309,15 +299,14 @@
       
     </p>
     <p>
-      <img src="./images/1220px-Doubly-linked-list.svg.png" />
+      <img src="./images/1220px-Doubly-linked-list.svg.png"/>
       
     </p>
     <p>
       Source: Wikipedia - <a href="https://en.wikipedia.org/wiki/Linked_list" target="_blank">Linked List</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482042406" ID="ID_211146124" MODIFIED="1461482459650" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -337,8 +326,7 @@
       Deletion O(1)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461482045024" ID="ID_1118557590" MODIFIED="1461482450095" TEXT="Functions">
 <richcontent TYPE="NOTE"><html>
@@ -362,8 +350,7 @@
       TraverseReverse
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -392,11 +379,10 @@
       
     </p>
     <p>
-      Trees are a sub-group of the graph data structure.&#160;&#160;Specifically, they are a form of limited, directed graph.
+      Trees are a sub-group of the graph data structure.&#xa0;&#xa0;Specifically, they are a form of limited, directed graph.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482049045" ID="ID_464862968" MODIFIED="1461556601183" TEXT="Binary Search Tree">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -407,10 +393,10 @@
       Each node has two child links:
     </p>
     <p>
-      1. One to the &quot;less than&quot; data
+      1. One to the "less than" data
     </p>
     <p>
-      2. One of the &quot;greater than&quot; data
+      2. One of the "greater than" data
     </p>
     <p>
       
@@ -425,15 +411,14 @@
       
     </p>
     <p>
-      <img src="./images/400px-Binary_search_tree.svg.png" />
+      <img src="./images/400px-Binary_search_tree.svg.png"/>
       
     </p>
     <p>
       Source: Wikipedia - <a href="https://en.wikipedia.org/wiki/Binary_search_tree" target="_blank">Binary Search Tree</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482061311" ID="ID_538472000" MODIFIED="1461482502778" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -462,8 +447,7 @@
       O(100,000) = 100,000
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461482065988" ID="ID_656941320" MODIFIED="1461482068111" TEXT="Functions"/>
 </node>
@@ -504,15 +488,14 @@
       
     </p>
     <p>
-      <img src="./images/500px-Trie_example.svg.png" />
+      <img src="./images/500px-Trie_example.svg.png"/>
       
     </p>
     <p>
       Source: Wikipedia - <a href="https://en.wikipedia.org/wiki/Trie" target="_blank">Trie</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482070294" ID="ID_1279003639" MODIFIED="1461482512069" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -538,8 +521,7 @@
       *where k is the length of the word
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461482073188" ID="ID_1831499103" MODIFIED="1461482076411" TEXT="Functions"/>
 </node>
@@ -550,7 +532,7 @@
   </head>
   <body>
     <p>
-      This is a tree structure where each node can have an arbitrary number of children.&#160;&#160;Think: family tree or org chart.
+      This is a tree structure where each node can have an arbitrary number of children.&#xa0;&#xa0;Think: family tree or org chart.
     </p>
     <p>
       
@@ -559,8 +541,7 @@
       The tree structure is a general (parent) form of the Binary Search Tree, the Trie and others.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482078847" ID="ID_519864648" MODIFIED="1461482524163" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -580,8 +561,7 @@
       Deletion O(n)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461482080579" ID="ID_109984881" MODIFIED="1461482083154" TEXT="Functions"/>
 </node>
@@ -593,7 +573,7 @@
   </head>
   <body>
     <p>
-      Similar to a tree, but there is no &quot;root&quot; to the graph.&#160;&#160;Example, the connections between people in a high school or a set of cities connected by highways.
+      Similar to a tree, but there is no "root" to the graph.&#xa0;&#xa0;Example, the connections between people in a high school or a set of cities connected by highways.
     </p>
     <p>
       
@@ -608,8 +588,7 @@
       Edges may have an associated value that represents the cost to travel from one vertex to another.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461482092777" ID="ID_625755323" MODIFIED="1461554565488" TEXT="Directed"/>
 <node CREATED="1461482094837" ID="ID_171668187" MODIFIED="1461554564808" TEXT="Undirected"/>
 </node>
@@ -630,8 +609,7 @@
       Data in the arrays stays in the order that you put it in there.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461481913360" ID="ID_20183916" MODIFIED="1461482145771" TEXT="Array">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -642,8 +620,7 @@
       http://blog.benoitvallon.com/data-structures-in-javascript/the-array-data-structure/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461481920613" ID="ID_424667764" MODIFIED="1461482156668" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -663,8 +640,7 @@
       Deletion - O(n)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461481951742" ID="ID_1067114754" MODIFIED="1461482166018" TEXT="Functions">
 <richcontent TYPE="NOTE"><html>
@@ -685,8 +661,7 @@
       splice()
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1461481915315" ID="ID_1650155360" MODIFIED="1461482174551" TEXT="Stack">
@@ -714,8 +689,7 @@
       http://blog.benoitvallon.com/data-structures-in-javascript/the-stack-data-structure/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461481964077" ID="ID_16350423" MODIFIED="1461482184024" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -735,8 +709,7 @@
       Deletion O(1)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461481968003" ID="ID_1924783947" MODIFIED="1461482187376" TEXT="Functions">
 <richcontent TYPE="NOTE"><html>
@@ -754,8 +727,7 @@
       peek() [optional]
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1461481972170" ID="ID_1964608915" MODIFIED="1461482201353" TEXT="Queue">
@@ -780,8 +752,7 @@
       http://blog.benoitvallon.com/data-structures-in-javascript/the-queue-data-structure/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461481974722" ID="ID_1004839664" MODIFIED="1461482217830" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -801,8 +772,7 @@
       Deletion O(n)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461481979139" ID="ID_1059086531" MODIFIED="1461482228151" TEXT="Functions">
 <richcontent TYPE="NOTE"><html>
@@ -820,8 +790,7 @@
       peek()
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -866,8 +835,7 @@
       - You can get the size of a Map easily while you have to manually keep track of size for an Object.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461481888609" ID="ID_869679993" MODIFIED="1461481890767" TEXT="Performance"/>
 <node CREATED="1461481891302" ID="ID_1900363804" MODIFIED="1461481893983" TEXT="Functions"/>
 </node>
@@ -887,8 +855,7 @@
       http://blog.benoitvallon.com/data-structures-in-javascript/the-hash-table-data-structure/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1461481868711" ID="ID_464121318" MODIFIED="1461482277481" TEXT="Performance">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -908,8 +875,7 @@
       Deletion O(1)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1461481873816" ID="ID_861282895" MODIFIED="1461482286587" TEXT="Functions">
 <richcontent TYPE="NOTE"><html>
@@ -930,8 +896,7 @@
       Search
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
